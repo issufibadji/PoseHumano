@@ -54,8 +54,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
       @./$(TARGET)
   ```
   3. ✔️excute :
-  `make`
-  `./a.out`
+  - `make`
+  - `./a.out`
 
 
 ### C. Para Codigo Python
