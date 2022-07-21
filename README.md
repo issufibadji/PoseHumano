@@ -1,5 +1,5 @@
 <h1 align="center" color="yelow">
-  PoseHumano
+  PoseHumano2D
 </h1>
 
 <p align="center">
@@ -23,7 +23,10 @@
    ![ezgif com-gif-maker](https://user-images.githubusercontent.com/45535344/180133435-f00b1ffc-f2da-4f6c-ac22-083ae4b2a270.gif)
 
 ## :book: Sobre
-
+O **PoseHumano2D**
+Trata-se de um problema da área de visão computacional onde o objetivo é implementar o
+openpose básico para estimativa de Pose 2D no Corpo humano que seja capaz de capturar várias pessoas
+(entre cinco a vinte pessoas que reconhecem cabeça e pé) em tempo real de 5fr/s.
 <!-- ❌✔️ -->
 
 ## :rocket: Tecnologias
