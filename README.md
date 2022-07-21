@@ -55,7 +55,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
     CXXFLAGS=`pkg-config --cflags --libs opencv4`
     all:
       $(CXX) $(OPENCV) main.cpp $(CXXFLAGS)
-      @./$(TARGET)
+      @./$(TARGET))
   ```
   3. ✔️excute :
   - `make`
