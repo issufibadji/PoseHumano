@@ -1,9 +1,9 @@
-# PoseHumano
-A.Requisitos: 
+## PoseHumano
+# A.Requisitos: 
 1. OpenCV > 3.4.1
 2. excute getModels.sh na linha de comando Ou faça o download do modelo caffe de http://posefs1.perception.cs.cmu.edu/Users/ZheCao/pose_iter_440000.caffemodel e colocá-lo coco folder
 
-B. Para usar a C++ (Compilando o arquivo cpp)
+# B. Para usar a C++ (Compilando o arquivo cpp)
  
 Usa g++
 Comando para compilar o arquivo cpp no ​​Ubuntu:
@@ -25,6 +25,6 @@ Comando para compilar o arquivo cpp no ​​Ubuntu:
   $ ./a.out
 
 
-C. Para Codigo Python
+# C. Para Codigo Python
  excute: 
  $ python main.py
