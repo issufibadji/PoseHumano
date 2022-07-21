@@ -11,13 +11,13 @@
 
 <p align="center">
    
- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/profileissufibadji?style=flat-square">
+ <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/PoseHumano?style=flat-square">
 
- <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/profileissufibadji?style=flat-square">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/PoseHumano?style=flat-square">
 
- <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/profileissufibadji?style=flat-square">
+ <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/PoseHumano?style=flat-square">
 
- <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/profileissufibadji?style=flat-square">
+ <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/PoseHumano?style=flat-square">
 </p>
 
    ![ezgif com-gif-maker](https://user-images.githubusercontent.com/45535344/180133435-f00b1ffc-f2da-4f6c-ac22-083ae4b2a270.gif)
@@ -35,7 +35,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 2. ✔️ Linguagem Python
 3. ✔️ Biblioteca de Oponcv
  
-## 🧑🏻‍💻 Pre-Requisitos: 
+## 🧑🏻‍💻 Pre-Requisitos 
   ### Instalação das biblotecas
   1. ✔️ OpenCV > 3.4.1
   2. ✔️ excute `getModels.sh` na linha de comando Ou faça o download do modelo caffe de ![caffemodel](http://posefs1.perception.cs.cmu.edu/Users/ZheCao/pose_iter_440000.caffemodel) e colocá-lo coco folder
