@@ -1,6 +1,8 @@
 ## PoseHumano
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/45535344/180133435-f00b1ffc-f2da-4f6c-ac22-083ae4b2a270.gif)
+
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/45535344/180133435-f00b1ffc-f2da-4f6c-ac22-083ae4b2a270.gif)
+ 
 
 # A.Requisitos: 
 1. OpenCV > 3.4.1
