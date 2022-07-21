@@ -1,6 +1,4 @@
 # PoseHumano
-# PoseHumano
-
 A.Requisitos: 
 1. OpenCV > 3.4.1
 2. excute getModels.sh na linha de comando Ou faça o download do modelo caffe de http://posefs1.perception.cs.cmu.edu/Users/ZheCao/pose_iter_440000.caffemodel e colocá-lo coco folder
