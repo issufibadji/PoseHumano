@@ -1,4 +1,4 @@
-<h1 align="center" color="yelow">
+<h1 align="center" color="yellow">
   PoseHumano2D
 </h1>
 
