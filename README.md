@@ -24,7 +24,7 @@
 
 ## :book: Sobre
 O **PoseHumano2D**
-Trata-se de um problema da área de visão computacional onde o objetivo é implementar o
+ trata-se de um problema da área de visão computacional onde o objetivo é implementar o
 openpose básico para estimativa de Pose 2D no Corpo humano que seja capaz de capturar várias pessoas
 (entre cinco a vinte pessoas que reconhecem cabeça e pé) em tempo real de 5fr/s.
 <!-- ❌✔️ -->
