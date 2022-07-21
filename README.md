@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-    <a href="#book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+🤩 <a href="#book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+🚀  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 💻  <a href="#Pre-Requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#memo-licença">Licença</a>
+📝  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 2. ✔️ Linguagem Python
 3. ✔️ Biblioteca de Oponcv
  
-## 💻 Pre-Requisitos: 
+## 🧑🏻‍💻 Pre-Requisitos: 
   ### Instalação das biblotecas
   1. ✔️ OpenCV > 3.4.1
   2. ✔️ excute `getModels.sh` na linha de comando Ou faça o download do modelo caffe de ![caffemodel](http://posefs1.perception.cs.cmu.edu/Users/ZheCao/pose_iter_440000.caffemodel) e colocá-lo coco folder
