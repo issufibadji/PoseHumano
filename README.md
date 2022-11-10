@@ -38,7 +38,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## 🧑🏻‍💻 Pre-Requisitos 
   ### Instalação das biblotecas
   1. ✔️ OpenCV > 3.4.1
-  2. ✔️ excute `getModels.sh` na linha de comando Ou faça o download do modelo caffe de ![caffemodel](http://posefs1.perception.cs.cmu.edu/Users/ZheCao/pose_iter_440000.caffemodel) e colocá-lo coco folder
+  2. ✔️ excute `getModels.sh` na linha de comando Ou faça o download do modelo caffe de [caffemodel](http://posefs1.perception.cs.cmu.edu/Users/ZheCao/pose_iter_440000.caffemodel) e colocá-lo coco folder
 
 ### B. Para usar a C++ (Compilando o arquivo cpp)
  
